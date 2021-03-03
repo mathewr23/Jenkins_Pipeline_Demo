@@ -5,4 +5,4 @@
 2. The certificate for the **WebDriverAgentRunner** *app* is not *trusted* on the physical test device (in the devices *settings* app) after it gets installed.
 
 ## Things to check:
-1. If the **WebDriverAgentRunner** *app* has been previously installed, trusted you will Jenkins succeed first time round? Probably!
+1. If the **WebDriverAgentRunner** *app* has been previously installed and trusted... will Jenkins succeed first time round? Probably!
