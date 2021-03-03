@@ -19,6 +19,7 @@ pipeline {
             
           '''
         }
+      }
       stage('#3 Launch Appium Server and target the iOS device') {
         steps {
           sh '''
